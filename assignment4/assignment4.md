@@ -2,7 +2,7 @@
 ![CPU](CPU.png)
 ## You will be building a cpu with the following specifications:
 
-The RAM content is provided in [RAMcontent](RAMcontent) file. (Not ready yet) It will contain both instructions and data.
+The RAM content is provided in [RAMcontent](RAMcontent) file. It will contain both instructions and data.
 
 We are going to show from beginning to end how to wire up a generic 8-bit machine.  This machine will use a 2-operand format, meaning that instructions are of the time `A=A+B`.  So, for example, `Add r0, r1` is `r0=r0+r1`.
 
